@@ -1,0 +1,62 @@
+{
+  "name": "Crisis Control Room",
+  "dataColors": [
+    "#F28C28", 
+    "#D9383A", 
+    "#2ECC71", 
+    "#3498DB", 
+    "#9B59B6", 
+    "#F1C40F", 
+    "#1ABC9C", 
+    "#E74C3C"
+  ],
+  "background": "#121416",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#F28C28",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1C1F22" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "visualCorners": [
+          {
+            "radius": 6
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12
+          }
+        ],
+        "labels": [
+          {
+            "fontColor": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#121416" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
