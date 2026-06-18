@@ -44,7 +44,7 @@ An interactive Power BI dashboard that analyzes global disaster events using NAS
 ![Analysis](https://github.com/vaishnav-dataanalyst/nasa-eonet-disaster-intelligence/blob/main/Screenshot%202026-06-18%20200710.png)
 
 ### Map Page
-![Map](https://github.com/vaishnav-dataanalyst/nasa-eonet-disaster-intelligence/blob/main/Screenshot%202026-06-18%20200716.png)
+![Map](https://github.com/vaishnav-dataanalyst/nasa-eonet-disaster-intelligence/blob/main/ScreenShot/Screenshot%202026-06-18%20200710.png)
 
 ## Author
 Vaishnav
